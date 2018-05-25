@@ -1,0 +1,6 @@
+suites:
+    Kata:
+        namespace: Kata
+        src_path: src
+        spec_path: ./
+        psr4_prefix: Kata
